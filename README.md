@@ -16,6 +16,10 @@ Intel Macs are not supported by this installer. New installations start in **Eng
 
 > **First-launch notice:** this preview uses an Apple Development certificate. It is not signed with Developer ID and has not been notarized by Apple. macOS may block the first launch; successful launch on every Mac is not guaranteed. See [Install and open](#install-and-open).
 
+![picle editor with a sample screenshot, arrows, numbered markers and freehand annotations](Picle-Interface.png)
+
+*The picle editor showing a demonstration screenshot with sample data and annotations.*
+
 ## What picle does
 
 - Start area selection from the menu bar or a global shortcut (default **⇧⌘2**, with alternatives in settings).
